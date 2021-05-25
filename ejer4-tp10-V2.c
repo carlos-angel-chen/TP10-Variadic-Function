@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdarg.h>
-#include "algo2char.h"
+#include "algo2char-V2.h"
 
 
 void mi_printf(char str[], ...);
